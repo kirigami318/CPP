@@ -1,2 +1,2 @@
 # C++ Project 
-Don't forget to star and follow
+Project C++ yang telah kita buat. jangan lupa beri star dan follow.
